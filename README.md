@@ -32,4 +32,4 @@ Bu proje, Vue.js'in gücünü göstermek amacıyla oluşturulmuştur. Aynı zama
 ## Katkıda Bulunma:
 
 ## İletişim:
-![Proje Resmi](https://hizliresim.com/ptsmg8v)
+![Proje Resmi]([url=https://hizliresim.com/ptsmg8v][img]https://i.hizliresim.com/ptsmg8v.png[/img][/url])
