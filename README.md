@@ -32,12 +32,6 @@ Bu proje, Vue.js'in gücünü göstermek amacıyla oluşturulmuştur. Aynı zama
 ## Katkıda Bulunma:
 
 ## İletişim:
-![Proje Resmi]([url=https://hizliresim.com/ptsmg8v][img]https://i.hizliresim.com/ptsmg8v.png[/img][/url])
+![Proje Resmi](https://i.hizliresim.com/hiwtudd.png)
 
-![Proje Resmi](https://hizliresim.com/4do3j1i)
 
-[url=https://hizliresim.com/4do3j1i][img]https://i.hizliresim.com/4do3j1i.png[/img][/url]
-[url=https://hizliresim.com/4do3j1i][img]https://i.hizliresim.com/4do3j1i.png[/img][/url]
-[https://hizliresim.com/4do3j1i görsel]
-[url=https://hizliresim.com/4do3j1i][img]https://i.hizliresim.com/4do3j1i.png[/img][/url]
-https://hizliresim.com/4do3j1i
