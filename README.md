@@ -27,12 +27,13 @@ Bu proje, Vue.js'in gücünü göstermek amacıyla oluşturulmuştur. Aynı zama
 - CSS
 - JavaScript
 
-## Lisans:
 
-## Katkıda Bulunma:
 
-## İletişim:
-![Proje Resmi](https://i.hizliresim.com/hiwtudd.png)
+## Proje Resim:
 ![Proje Resmi](https://i.hizliresim.com/dcojyuy.png)
+
+
+
+![Proje Resmi](https://i.hizliresim.com/hiwtudd.png)
 
 
