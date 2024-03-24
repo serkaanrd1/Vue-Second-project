@@ -34,5 +34,5 @@ Bu proje, Vue.js'in gücünü göstermek amacıyla oluşturulmuştur. Aynı zama
 ## İletişim:
 ![Proje Resmi]([url=https://hizliresim.com/ptsmg8v][img]https://i.hizliresim.com/ptsmg8v.png[/img][/url])
 
-![Proje Resmi]([adcs xcvcxv](https://hizliresim.com/4do3j1i)https://hizliresim.com/4do3j1i)
+![Proje Resmi](https://hizliresim.com/4do3j1i)
 
